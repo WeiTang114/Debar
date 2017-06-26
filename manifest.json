@@ -1,6 +1,6 @@
 {
   "name": "Debar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "You can disable \"bottom control bar\" in Google Presentation now.",
   "icons": { "128": "icon.png" },
   "content_scripts": [
